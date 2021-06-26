@@ -88,7 +88,7 @@ if (isset($_POST['submit'])) {
             margin: 20px auto;
         }
 
-        .error {
+        #error {
             color: red;
             display: none;
         }
